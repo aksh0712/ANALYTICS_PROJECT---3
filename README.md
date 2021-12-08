@@ -31,7 +31,7 @@ Solution Data pipelines.
 
 9) Now model can be used to make a forecast. Found the model train error is too minimal hence the model provides higher accuracy.
 
-10) To check accuracy we employ different metrics such as MAPE, RMSE, RMSPE.
+10) To check accuracy, we employ different metrics such as MAPE, RMSE, RMSPE.
 
 11) To forecast the demand of electricity and to visualize the result of the same new line graph is generated along with diagnostics().
 
