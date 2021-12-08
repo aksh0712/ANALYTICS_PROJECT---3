@@ -17,7 +17,7 @@ Solution Data pipelines.
    a. To decompose the data we utilize seasonal decompose package.
    b. Seasonal decompose package contains two types - additive and multiplicative.
    c. Additive decomposition is applied to understand the time series data thoroughly.
-   d. Additive decompose is apopiled on to the dataset because when the data is related to time series then level, trend, seasonality and noise are computed. 
+   d. Additive decompose is applied on to the dataset because when the data is related to time series then level, trend, seasonality and noise are computed. 
    
 4) Perform AutoCorrelation and Partial Autocorrelation test to indicate a model would be appropriate for the time series because the ACF cuts after one lag while the PACF shows slowly decreasing trend. 
 
